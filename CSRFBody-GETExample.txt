@@ -1,0 +1,10 @@
+GET /firefox?client=firefox-a&rls=org.mozilla:en-US:official HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0
+Accept: text/html,application/xhtml+xml,application/xml
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive 300
+Proxy-Connection: keep-alive
+Cookie: PREF=ID=110a6ee3c4ee3e55

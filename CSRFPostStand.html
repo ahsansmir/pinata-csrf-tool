@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
+<html lang="en">
+<head>
+<title>Pinata-CSRF-Tool</title>
+</head>
+<body>
+<form action="https://www.google.com/firefox?client=firefox-a&rls=org.mozilla:en-US:official" id="formid" method="post">
+<input type="hidden" name="Hello" value="1" />
+</form>
+<script>
+document.getElementById('formid').submit();
+</script>
+</body>
+</html>
