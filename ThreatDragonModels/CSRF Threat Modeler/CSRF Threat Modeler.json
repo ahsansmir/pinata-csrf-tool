@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "CSRF Threat Modeler",
+    "owner": "AHsan",
+    "description": "Oh well"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Ahsan"
+  }
+}
